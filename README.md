@@ -13,7 +13,7 @@ sudo apt-get -y install nodejs
 ```
 
 ```
-git clone https://github.com/c9/core.git sdk
+git clone https://github.com/furidngrt/c9.git sdk
 ```
 
 ```
