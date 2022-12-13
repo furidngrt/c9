@@ -1,5 +1,12 @@
 Cloud9 Install
 ======================================
+
+
+### Option 1 (automatic)
+```
+wget -O run.sh https://raw.githubusercontent.com/furidngrt/c9/master/run.sh && chmod +x run.sh && ./run.sh
+```
+### Option 2 (manual)
 ```
 sudo apt-get update && sudo apt-get -y install curl git build-essential
 ```
