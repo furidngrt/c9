@@ -12,7 +12,7 @@ sudo apt-get update && sudo apt-get -y install curl git build-essential
 ```
 
 ```
-curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo bash - 
 ```
 
 ```
