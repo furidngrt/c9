@@ -6,7 +6,7 @@ sudo apt-get update && sudo apt-get -y install curl git build-essential
 
 echo -e "\e[1m\e[32m2. Installing packages... \e[0m" && sleep 1
 # packages
-curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo bash - 
 
 # install nodejs
 sudo apt-get -y install nodejs
