@@ -36,5 +36,9 @@ screen
 ```
 
 ```
+cd sdk
+```
+
+```
 nodejs server.js -p 8080 -l 0.0.0.0 -a user:pass
 ```
